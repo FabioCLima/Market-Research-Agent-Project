@@ -1,7 +1,7 @@
 [project]
-name = "udaplay-project"
-version = "0.1.0"
-description = "UdaPlay Project"
+name = "market-research-agent-project"
+version = "1.0.0"
+description = "UdaPlay - AI Research Agent for Video Game Industry Questions"
 authors = [{ name = "Fabio Lima", email = "lima.fisico@gmail.com" }]
 readme = "README.md"
 requires-python = ">=3.13"

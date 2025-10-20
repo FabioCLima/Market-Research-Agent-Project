@@ -1,4 +1,4 @@
-# UdaPlay AI Research Agent
+# Market Research Agent Project - UdaPlay
 
 > 🎮 An AI-powered research agent specialized in video game industry questions
 
